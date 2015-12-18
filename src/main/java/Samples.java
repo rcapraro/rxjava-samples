@@ -12,7 +12,7 @@ public class Samples {
         mergingAsync();
         System.out.println("\nMerging sync...with latency...");
         mergingSync();
-        System.out.println("\nMerging sync made async...with latency...");
+        System.out.println("\nMerging sync made async...");
         mergingSyncMadeAsync();
         System.out.println("\nflatMapExampleAsync...");
         flatMapExampleAsync();
